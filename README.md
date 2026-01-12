@@ -28,4 +28,5 @@ This project was developed as part of **Finstreet Problem Statement – Round 2*
 
 ---
 
-## Project Structure
+## How to run this App
+Just go to a terminal, go inside trading directory and type "python app.py" to execute 
